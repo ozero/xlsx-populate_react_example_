@@ -1,6 +1,6 @@
 # xlsx-populate_react_example
 
-Reading XLSX file example for xlsx-polulate using React.js
+XLSX reader example using xlsx-polulate & React.js
 
 - [xlsx\-populate \- npm](https://www.npmjs.com/package/xlsx-populate)
 
