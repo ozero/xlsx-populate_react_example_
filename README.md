@@ -36,6 +36,6 @@ into
 
 ## Demo
 
-https://codesandbox.io/s/github/ozero/xlsx-populate_react_example_
+[https://codesandbox.io/s/github/ozero/xlsx-populate_react_example_](https://codesandbox.io/s/github/ozero/xlsx-populate_react_example_)
 
 (Created with CodeSandbox)
